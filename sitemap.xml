@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/issues</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/pulls</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/projects?query=is%3Aopen</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/security</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/releases</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/compare</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/caches</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943421040</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943406241</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943394594</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943364185</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943325156</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943315265</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943277250</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels?sort=name-asc</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels?sort=name-desc</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels?sort=count-desc</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels?sort=count-asc</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels/bug</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels/documentation</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels/duplicate</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels/enhancement</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels/good%20first%20issue</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels/help%20wanted</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels/invalid</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels/question</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/labels/wontfix</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?state=open</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?state=closed</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943421040/job/16118516242</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943421040/job/16118526812</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943421040/job/16118526605</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943421040/usage</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/67b188904369033b2c3b49e7a08a883b2b32089f</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943406241/job/16118464904</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943406241/job/16118477565</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943406241/job/16118477788</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943406241/usage</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/f357a93bcc37ca9e7ddf5b1609eff0037becdf49</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943394594/job/16118426308</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943394594/job/16118440941</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943394594/job/16118441124</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943394594/usage</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/52382d4d949e3a5962375f5e77b566b59ed17eff</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943364185/job/16118326158</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943364185/job/16118339881</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943364185/job/16118340058</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943364185/usage</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/c8dc470142121adad4ab3eff412159527f54cd19</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943325156/job/16118198022</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943325156/job/16118213374</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943325156/job/16118213608</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943325156/usage</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/c1935d8a6a747db8d66627bfeaa7e2c20836f25d</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943315265/job/16118165673</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943315265/job/16118180069</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943315265/job/16118179801</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943315265/usage</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/05f9335066368d03c7d88114af1379f9659ce8ad</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943277250/job/16118039043</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943277250/job/16118053521</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943277250/job/16118053742</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/actions/runs/5943277250/usage</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/11a21ac3a1d3d1210384240dca304dd94ddf1cd5</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/495a72350cee6c4003e0a357a57318282616fc2f</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/e3fa24db1c967e58a41ea1b99ffaa7022955e06a</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/506b709edc21032193ffe71d8682fca954a4fdc1</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/aa20185c0d2ab7f8a1e44761dd5232f721c78264</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/ff7d790d2c7c69494a54ce8c8710a7d9f9bf1b90</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/waltereidi/PostgreSQL__JSON_to_Columns/commit/ef68290018cf3cc499781ed727888b6dbbc30f08</loc>
+  <lastmod>2023-08-22T19:58:45+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>
